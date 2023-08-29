@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-family: "Sedgwick Ave Display", cursive;
+  margin-top: 100px;
+  text-transform: uppercase;
+  color: white;
+}
+.poster {
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  color: white;
+}
+
+img {
+  border: 10px white solid;
+  width: 200px;
+}
